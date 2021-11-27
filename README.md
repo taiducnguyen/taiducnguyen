@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Tai Duc Nguyen
-- See more about me here https://taiducnguyen-cv-a4a5gdbht-taiducnguyen.vercel.app/
+- See more about me here https://taiducnguyen-github-io.vercel.app/
